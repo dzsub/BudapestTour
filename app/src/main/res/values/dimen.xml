@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="picture_height">100dp</dimen>
+    <dimen name="list_margin_top">10dp</dimen>
+    <dimen name="list_margin_bottom">10dp</dimen>
+    <dimen name="list_text_padding_left">12dp</dimen>
+    <dimen name="text_name_size">20sp</dimen>
+    <dimen name="text_address_size">18sp</dimen>
+    <dimen name="tab_indicator_height">3dp</dimen>
+</resources>
