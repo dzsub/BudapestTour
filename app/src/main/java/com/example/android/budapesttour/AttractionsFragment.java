@@ -28,16 +28,16 @@ public class AttractionsFragment extends Fragment {
        View rootView = inflater.inflate(R.layout.content_list, container, false);
 
         ArrayList<Content> contents = new ArrayList<Content>();
-        contents.add(new Content("Szechenyi Bath",R.drawable.szechenyi_bath));
-        contents.add(new Content("Buda Castle Hill",R.drawable.buda_castle));
-        contents.add(new Content("Central Market Hall",R.drawable.central_market_hall));
-        contents.add(new Content("House of Terror Museum",R.drawable.house_of_terror));
-        contents.add(new Content("Opera House",R.drawable.opera_house));
-        contents.add(new Content("Hungarian Parliament",R.drawable.hungarian_parliament));
-        contents.add(new Content("St Stephen’s Basilica",R.drawable.st_stephens_basilica));
-        contents.add(new Content("Heroes’ Square",R.drawable.heroes_squer));
-        contents.add(new Content("Great Synagogue",R.drawable.great_synagogue));
-        contents.add(new Content("Margaret Island",R.drawable.margaret_island));
+        contents.add(new Content(getString(R.string.Szechenyi_Bath),R.drawable.szechenyi_bath));
+        contents.add(new Content(getString(R.string.Buda_Castle_Hill),R.drawable.buda_castle));
+        contents.add(new Content(getString(R.string.Central_Market_Hall),R.drawable.central_market_hall));
+        contents.add(new Content(getString(R.string.House_of_Terror_Museum),R.drawable.house_of_terror));
+        contents.add(new Content(getString(R.string.Opera_House),R.drawable.opera_house));
+        contents.add(new Content(getString(R.string.Hungarian_Parliament),R.drawable.hungarian_parliament));
+        contents.add(new Content(getString(R.string.St_Stephens_Basilica),R.drawable.st_stephens_basilica));
+        contents.add(new Content(getString(R.string.Heroes_Square),R.drawable.heroes_squer));
+        contents.add(new Content(getString(R.string.Great_Synagogue),R.drawable.great_synagogue));
+        contents.add(new Content(getString(R.string.Margaret_Island),R.drawable.margaret_island));
 
         ContentAdapter adapter = new ContentAdapter(getActivity(), contents, R.color.text_container_bg_for_attractions);
 

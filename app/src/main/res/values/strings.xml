@@ -1,4 +1,71 @@
 <resources>
     <string name="app_name">Budapest Tour</string>
 
+    <!--Attractions-->
+    <string name="Szechenyi_Bath">Szechenyi Bath</string>
+    <string name="Buda_Castle_Hill">Buda Castle Hill</string>
+    <string name="Central_Market_Hall">Central Market Hall</string>
+    <string name="House_of_Terror_Museum">House of Terror Museum</string>
+    <string name="Opera_House">Opera House</string>
+    <string name="Hungarian_Parliament">Hungarian Parliament</string>
+    <string name="St_Stephens_Basilica">St Stephen’s Basilica</string>
+    <string name="Heroes_Square">Heroes’ Square</string>
+    <string name="Great_Synagogue">Great Synagogue</string>
+    <string name="Margaret_Island">Margaret Island</string>
+
+    <!--Restaurants-->
+    <string name="Costes_Restaurant">Costes Restaurant</string>
+    <string name="_4Raday_street_H_1092">4 Raday street, H-1092</string>
+    <string name="Onyx">Onyx</string>
+    <string name="Vörösmarty_tér_7_8_1051_Budapest">Vörösmarty tér 7-8, 1051 Budapest</string>
+    <string name="Spinoza">Spinoza</string>
+    <string name="Dob_u_15_1074_Budapest">Dob u. 15, 1074 Budapest</string>
+    <string name="Corso_Restaurant">Corso Restaurant</string>
+    <string name="Apáczai_Csere_János_utca_12_14_1052_Budapest">Apáczai Csere János utca 12-14, 1052 Budapest</string>
+    <string name="Nobu">Nobu</string>
+    <string name="Erzsébet_tér_7_8_1051_Budapest">Erzsébet tér 7-8, 1051 Budapest</string>
+    <string name="Rezkakas_Bistro">Rezkakas Bistro</string>
+    <string name="V_Kerulet_Sas_u_3_Budapest">V. Kerulet, Sas u. 3, Budapest</string>
+    <string name="Remiz">Remiz</string>
+    <string name="Budakeszi_út_5_1021_Budapest">Budakeszi út 5, 1021 Budapest</string>
+    <string name="Spoon">Spoon</string>
+    <string name="Vigadó_tér_3_Kikötõ_1052_Budapest">Vigadó tér 3. Kikötõ, 1052 Budapest</string>
+    <string name="Peppers">Peppers</string>
+    <string name="Apáczai_Csere_János_utca_4_1052_Budapest">Apáczai Csere János utca 4, 1052 Budapest</string>
+    <string name="Bokonyha_Winekitchen">Bokonyha Winekitchen</string>
+    <string name="V_kerulet_Sas_u_3_1051_Hungary">V. kerulet Sas u. 3, 1051 Hungary</string>
+
+    <!--Museums-->
+    <string name="Budapest_History_Museum">Budapest History Museum</string>
+    <string name="_1014_Budapest_Szent_György_tér_2">1014 Budapest, Szent György tér 2.</string>
+    <string name="Holocaust_Memorial_Center">Holocaust Memorial Center</string>
+    <string name="_1094_Budapest_Páva_utca_39.">1094 Budapest, Páva utca 39.</string>
+    <string name="_1062_Budapest_Andrássy_út_60.">1062 Budapest, Andrássy út 60.</string>
+    <string name="Hungarian_National_Museum">Hungarian National Museum</string>
+    <string name="_1088_Budapest_Múzeum_körút_14_16.">1088 Budapest, Múzeum körút 14-16.</string>
+    <string name="Hungarian_Natural_History_Museum">Hungarian Natural History Museum</string>
+    <string name="_1083_Budapest_Ludovika_tér_2_6.">1083 Budapest, Ludovika tér 2-6</string>
+    <string name="Kiscelli_Museum">Kiscelli Museum</string>
+    <string name="_1037_Budapest_Kiscelli_utca_108.">1037 Budapest, Kiscelli utca 108.</string>
+    <string name="Ludwig_Museum">Ludwig Museum</string>
+    <string name="_1095_Budapest_Komor_Marcell_utca_1.">1095 Budapest, Komor Marcell utca 1.</string>
+    <string name="Museum_of_Applied_Arts">Museum of Applied Arts</string>
+    <string name="_1091_Budapest_Üllői_út_33_37.">1091 Budapest, Üllői út 33-37.</string>
+    <string name="Museum_of_Ethography">Museum of Ethography</string>
+    <string name="_1055_Budapest_Kossuth_tér_12.">1055 Budapest, Kossuth tér 12.</string>
+    <string name="Museum_of_Fine_Arts">Museum of Fine Arts</string>
+    <string name="_1146_Budapest_Dózsa_György_út_41.">1146 Budapest, Dózsa György út 41.</string>
+
+    <!--Casinos-->
+    <string name="Sofitel_Budapest_Casino">Sofitel Budapest Casino</string>
+    <string name="Budapest_Széchenyi_tér_2_1051">Budapest, Széchenyi tér 2, 1051</string>
+    <string name="Tropicana_Casino">Tropicana Casino</string>
+    <string name="Budapest_Vigadó_u_2_1051">Budapest, Vigadó u. 2, 1051</string>
+    <string name="Atrium_Eurocenter_Casino">Atrium Eurocenter Casino</string>
+    <string name="Budapest_Bécsi_út_154_1037">Budapest, Bécsi út 154, 1037</string>
+    <string name="Atlantis_Casino">Atlantis Casino</string>
+    <string name="Budapest_Nagy_Lajos_király_útja_1142">Budapest, Nagy Lajos király útja, 1142</string>
+    <string name="Corvin_Sétány_Casino">Corvin Sétány Casino</string>
+    <string name="Budapest_Corvin_sétány_4._1082">Budapest, Corvin sétány 4., 1082</string>
+
 </resources>

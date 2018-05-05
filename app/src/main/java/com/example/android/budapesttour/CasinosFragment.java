@@ -28,11 +28,11 @@ public class CasinosFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.content_list, container, false);
 
         ArrayList<Content> contents = new ArrayList<Content>();
-        contents.add(new Content("Sofitel Budapest Casino", "Budapest, Széchenyi tér 2, 1051"));
-        contents.add(new Content("Tropicana Casino", "Budapest, Vigadó u. 2, 1051"));
-        contents.add(new Content("Atrium Eurocenter Casino", "Budapest, Bécsi út 154, 1037"));
-        contents.add(new Content("Atlantis Casino","Budapest, Nagy Lajos király útja, 1142"));
-        contents.add(new Content("Corvin Sétány Casino", "Budapest, Corvin sétány 4., 1082"));
+        contents.add(new Content(getString(R.string.Sofitel_Budapest_Casino), getString(R.string.Budapest_Széchenyi_tér_2_1051)));
+        contents.add(new Content(getString(R.string.Tropicana_Casino), getString(R.string.Budapest_Vigadó_u_2_1051)));
+        contents.add(new Content(getString(R.string.Atrium_Eurocenter_Casino), getString(R.string.Budapest_Bécsi_út_154_1037)));
+        contents.add(new Content(getString(R.string.Atlantis_Casino),getString(R.string.Budapest_Nagy_Lajos_király_útja_1142)));
+        contents.add(new Content(getString(R.string.Corvin_Sétány_Casino), getString(R.string.Budapest_Corvin_sétány_4__1082)));
 
         ContentAdapter adapter = new ContentAdapter(getActivity(), contents, R.color.text_container_background);
 
